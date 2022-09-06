@@ -90,7 +90,7 @@ pry(main)> dealership.add_car(car_1)
 
 pry(main)> dealership.add_car(car_2)
 
-pry(main)> dealership.inventory
+pry(main)>
 #=> [#<Car:0x00007fa53b9ca0a8...>, #<Car:0x00007fccd2985f48...>]
 
 pry(main)> dealership.inventory_count
